@@ -54,6 +54,7 @@ This project is an interactive **Weather and Air Quality Dashboard** built using
 * Dimension Table:
 
   * Location
+<img width="708" height="482" alt="image" src="https://github.com/user-attachments/assets/dc50766d-f83e-4d6c-9e53-9c5aa6079d9c" />
 
 Relationships are built using location and date keys to ensure proper filtering and analysis.
 
@@ -69,7 +70,8 @@ Relationships are built using location and date keys to ensure proper filtering 
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="905" height="509" alt="image" src="https://github.com/user-attachments/assets/4810ba10-0a72-419b-ade0-8c5ddda0c9d5" />
+
 
 ---
 
